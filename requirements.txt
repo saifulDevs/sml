@@ -1,0 +1,11 @@
+scikit-learn
+numpy
+python-dotenv
+pyjwt
+aioredis
+fastapi-limiter
+redis
+pydantic
+fastapi
+uvicorn
+starlette
